@@ -28,23 +28,4 @@ button{
     width: 150PX;
     height: 50PX;
     margin-bottom: 10px;
-
-    
-}
-button:hover{
-    font-size: 30px;
-    transition: 500ms;
-}
-
-li{
-
-    font-size: x-large;
-    color: rgb(255, 248, 231);
-    justify-content: center;
-    margin-top: 30px;
-    margin-left: 100px;
-}
-
-a{
-    color: rgb(255, 248, 231) ;
 }
