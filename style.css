@@ -61,4 +61,81 @@ h1{
     position: relative;
     right: 20%;
     color:rgb(212, 175, 55) ;
+#heading1{
+    color: goldenrod;
+}
+
+#box1{
+    background-image: url(59a4cc45-003c-4631-83b2-bbab19a18836.png);
+    height: 300vh;
+    width: 230vh;
+    background-repeat: no-repeat;
+    background-size:  contain;
+    /* position: fixed; */
+
+
+    /* background-position: center; */
+
+}
+h1{
+    position: relative;
+    top: 250px;
+    left: 75px;
+    font-size: xx-large;
+    font-weight: bolder;
+}
+#pp{
+    position: relative
+    ; top: 260px;
+    left: 75px;
+    color: aliceblue;
+    font-size: x-large;
+     font-weight: bolder;
+}
+#nooo{
+    color: aliceblue;
+    font-weight: bolder;
+    font-size: xx-large;
+}
+#footer1{
+    order: 1;
+    background-color: RGB(81, 4, 0);
+    height: 150px;
+}
+footer{
+    text-align: center;
+    color: aliceblue;
+    font-weight: bold;
+    position: relative;
+    top: 20px;
+}
+h4{
+    position: relative;
+    left: 460px;
+    top: 23px;
+color: aliceblue;
+}
+input{
+    position: relative;
+    left: 850px;
+      /* height: 30px; */
+    /* width: 150px; */
+
+}
+button{
+    position: relative;
+    left: 850px;
+    background-color: black;
+    color: aliceblue;
+    /* height: 35px; */
+    /* width: 40px; */
+}
+ul{
+    position: relative;
+    bottom: 90px;
+}
+
+li{
+    color: white;
+    margin: 10px;
 }
